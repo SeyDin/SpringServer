@@ -1,0 +1,1 @@
+insert into users(boss_user_id, payment) values (null, 200000.0);
